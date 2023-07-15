@@ -37,8 +37,7 @@
                     <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                     <!-- RD Navbar Brand-->
                     <div class="rd-navbar-brand">
-                      
-                      <a class="rd-nav-link" href="#home">Centro Imóveis BH</a>
+                      <a class="rd-nav-link" href="#home"><i class="icon mdi mdi-home-modern novi-icon"></i>Centro Imóveis BH</a>
                     </div>
                   </div>
                   <div class="rd-navbar-main-element">
